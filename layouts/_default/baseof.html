@@ -25,6 +25,8 @@
 <body>
 	<a href="#main" class="skip-link">Skip to content</a>
 	<!-- Code that all your templates share, like a header -->
+	
+	{{ partial "nav.html" . }}
 	{{ block "main" . }}
 		<!-- The part of the page that begins to differ between templates -->
 	{{ end }}

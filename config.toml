@@ -1,3 +1,29 @@
 baseURL = "https://heathershakespeare.com/"
 languageCode = "en-uk"
 title = "Heather Shakespeare"
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = -100
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = -10
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
+    weight = -9
+  [[menu.main]]
+    identifier = "poems"
+    name = "Poems"
+    url = "/poems/"
+    weight = -8
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = -7

@@ -1,0 +1,11 @@
+{{ define "main" }}
+	<h1>Poems</h1>
+	<!-- Ranges through content/poems/*.md -->
+	<ul>
+		{{ range .Pages }}
+		  <li>
+		    <a href="{{.Permalink}}">{{.Title}}</a>
+		  </li>
+		{{ end }}
+	</ul>
+{{ end }}

@@ -1,0 +1,37 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+	<meta charset="utf-8">
+	<title>{{ if .Title }}{{ .Title }} - {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<meta property="og:title" content="">
+	<meta property="og:type" content="">
+	<meta property="og:url" content="">
+	<meta property="og:image" content="">
+
+	<link rel="manifest" href="site.webmanifest">
+	<link rel="apple-touch-icon" href="icon.png">
+	<!-- Place favicon.ico in the root directory -->
+
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/main.css">
+
+	<meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+	<a href="#main" class="skip-link">Skip to content</a>
+	<!-- Code that all your templates share, like a header -->
+	{{ block "main" . }}
+		<!-- The part of the page that begins to differ between templates -->
+	{{ end }}
+	{{ block "footer" . }}
+		<!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+		<footer>© <a href="/">Heather Shakespeare</a> {{ dateFormat "2006" now }}</footer>
+	{{ end }}
+</body>
+
+</html>

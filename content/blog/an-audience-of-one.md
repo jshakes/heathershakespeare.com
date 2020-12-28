@@ -14,4 +14,11 @@ Writing for yourself  – allowing space for creativity, expression and reflecti
 
 So it’s easy to see why writing for wellbeing is now being used increasingly in hospitals and workplaces, community halls and prisons. People everywhere are discovering the power of writing to help them make sense of their world, cope with life’s challenges and make the most of its opportunities.
 
-Read more about writing for wellbeing
+[Read more about writing for wellbeing](https://www.writingforlife.co.uk/about/)
+
+## Further reading
+
+- [The Puzzling Way That Writing Heals The Body](https://www.bbc.com/future/article/20170601-can-writing-about-pain-make-you-heal-faster)
+- [As Easy As ABC](https://www.theguardian.com/lifeandstyle/2002/jul/28/shopping)
+- [Evidence of the Healing Power of Expressive Writing](https://www.artandhealing.org/evidence-of-the-healing-power-of-expressive-writing/)
+- [Writing As An Antidote To Loneliness](https://www.health.harvard.edu/blog/writing-as-an-antidote-to-loneliness-2018091414807)

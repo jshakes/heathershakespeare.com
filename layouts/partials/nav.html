@@ -1,5 +1,5 @@
 <nav>
-	<ul>
+	<ul class="nav">
 		{{ $currentPage := . }}
 		{{ range .Site.Menus.main }}
 			<li aria-current="{{ if $currentPage.HasMenuCurrent "main" . }}true{{ end }}">

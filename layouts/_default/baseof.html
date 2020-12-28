@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="">
+<html class="no-js" lang="{{ .Site.LanguageCode }}">
 
 <head>
 	<meta charset="utf-8">
@@ -7,10 +7,12 @@
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<meta property="og:title" content="">
-	<meta property="og:type" content="">
-	<meta property="og:url" content="">
-	<meta property="og:image" content="">
+	<meta property="og:title" content="{{ if .Title }}{{ .Title }} - {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}" />
+	<meta property="og:site_name" content="{{ .Site.Title }}">
+	<meta property="og:locale" content="{{ .Site.LanguageCode }}">
+	<meta property="og:url" content="{{ .Permalink }}">
+	<meta property="og:type" content="website">
+	<meta property="og:image" content="{{ .Site.BaseURL }}img/heather-shakespeare-headshot.jpg">
 
 	<link rel="manifest" href="site.webmanifest">
 	<link rel="apple-touch-icon" href="icon.png">

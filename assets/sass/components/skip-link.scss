@@ -1,0 +1,14 @@
+.skip-link {
+	@include visually-hidden;
+
+	position: fixed;
+	top: 1em;
+	left: 1em;
+	z-index: 1;
+
+	&:focus {
+		@include reset-visually-hidden;
+
+		position: fixed;
+	}
+}

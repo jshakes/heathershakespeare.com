@@ -30,12 +30,14 @@
 	  <a href="/" class="header__anchor header__title">Heather Shakespeare</a>
 		{{ partial "nav.html" . }}
 	</header>
-	{{ block "main" . }}
-		<!-- The part of the page that begins to differ between templates -->
-	{{ end }}
+	<main id="main" class="main">
+		{{ block "main" . }}
+			<!-- The part of the page that begins to differ between templates -->
+		{{ end }}
+	</main>
 	{{ block "footer" . }}
 		<!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
-		<footer>© <a href="/">Heather Shakespeare</a> {{ dateFormat "2006" now }}</footer>
+		<footer class="footer">© <a href="/">Heather Shakespeare</a> {{ dateFormat "2006" now }}</footer>
 	{{ end }}
 </body>
 

@@ -1,7 +1,5 @@
 {{ define "main" }}
-	<main id="main">
-		<h1>{{.Title}}</h1>
-		<p><time datetime="{{.Date}}">{{.Date.Format "2 January 2006"}}</time></p>
-		{{.Content}}
-	</main>
+	<h1>{{.Title}}</h1>
+	<p><time datetime="{{.Date}}">{{.Date.Format "2 January 2006"}}</time></p>
+	{{.Content}}
 {{ end }}

@@ -1,0 +1,43 @@
+.header {
+	max-width: 30em;
+	margin: 4em auto;
+	padding: 0 1.25em;
+}
+
+@media screen and ( min-width: 22em ) {
+	.header {
+		padding: 0 2.5em;
+	}
+}
+
+.header__anchor {
+	color: inherit;
+	text-decoration: none;
+}
+
+.header__anchor:hover {
+	color: inherit;
+}
+
+.header__title {
+	font-family: 'Bariol Serif', Georgia, serif;
+	font-size: 2em;
+	line-height: 1;
+	margin: 0;
+	font-weight: normal;
+}
+
+@media screen and ( min-width: 64em ) {
+	.header__title {
+		font-size: 4em;
+	}
+}
+
+.header__title::after {
+	content: '.com';
+	color: #d3cbc7;
+}
+
+.header__anchor:hover .header__title::after {
+	color: inherit;
+}

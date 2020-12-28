@@ -1,16 +1,14 @@
 {{ define "main" }}
-	<main id="main">
-		<h1>Blog</h1>
-		<!-- Ranges through content/poems/*.md -->
-		<ul>
-			{{ range .Pages }}
-			  <li>
-			    <a href="{{.Permalink}}">
-			    	<p>{{.Title}}</p>
-			    	<time datetime="{{.Date}}">{{.Date.Format "2 January 2006"}}</time>
-			    </a>
-			  </li>
-			{{ end }}
-		</ul>
-	</main>
+	<h1>Blog</h1>
+	<!-- Ranges through content/poems/*.md -->
+	<ul>
+		{{ range .Pages }}
+			<li>
+				<a href="{{.Permalink}}">
+					<p>{{.Title}}</p>
+					<time datetime="{{.Date}}">{{.Date.Format "2 January 2006"}}</time>
+				</a>
+			</li>
+		{{ end }}
+	</ul>
 {{ end }}

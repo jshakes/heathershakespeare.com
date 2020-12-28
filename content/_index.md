@@ -11,3 +11,12 @@ Alongside this, I write poetry for the pleasure (and pain) of it, and because so
 > “What’s writing really about? It’s about trying to take fuller possession of the reality of your life.”
 
 —Ted Hughes
+
+## Coming up
+Look out for writing workshops and activities at:
+
+- [Westcott Writing Workshops [PDF]](assets/pdf/writing-workshops-january-march-2021.pdf), winter series begins January 2021
+
+## Contact me
+
+- Email: [info@heathershakespeare.com](mailto:info@heathershakespeare.com)

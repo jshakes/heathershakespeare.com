@@ -24,7 +24,7 @@ our little lives for a plaything?
 
 And now, constrained to stop again\\
 against our will, we stand and watch\\
-what happens if we do not care,\\	
+what happens if we do not care,\\
 if caught up in the game, the thrill, the win\\
 we look away and fail to see what lies\\
 ahead, as whoops and shouts drown out\\

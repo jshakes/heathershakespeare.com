@@ -24,6 +24,6 @@ to wash your hands again or let it wait\\
 to set reverse or forge a better path\\
 to settle for despair or lunge for hope\\
 to stare into the mud or gaze at stars\\
-to wash your hands again or let it wait\\
+to wash your hands again or let it wait
 
 _From Even In The Shadow – Mole Valley Poets Anthology 2020_

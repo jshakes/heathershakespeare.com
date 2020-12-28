@@ -10,12 +10,12 @@ to yield a word no-one had spoken,\\
 stooped to peer down holes, under hedges\\
 searching for stories yet to be told,\\
 stopped to catch on the wind a pheasant’s call,\\
-a quivering of wings, the musk of damp earth\\       
+a quivering of wings, the musk of damp earth\\
 unfolding spring’s first celandine.
 
 Startled by steam and the thrust of an engine\\
 crossing the valley, crossing the decades,\\
-we gasped, cried out and wished it slow so\\		
+we gasped, cried out and wished it slow so\\
 we could hold it there, halt time somehow,\\
 pull back the years to see who trod these paths,\\
 who tilled this soil — the chalk and trace of flint —\\

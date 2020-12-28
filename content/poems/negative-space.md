@@ -12,6 +12,6 @@ Took up our brushes and half closed our eyes\\
 Seeing for the first time how what is not or has not been\\
 Becomes something in the defining of what is\\
 And that without the lamenting and the lost things\\
-There would be nothing there to paint\\
+There would be nothing there to paint
 
 _Published in The Interpreter's House, Issue 71 – June 2019_

@@ -18,12 +18,22 @@ title = "Heather Shakespeare"
     url = "/services/"
     weight = -9
   [[menu.main]]
+    identifier = "events"
+    name = "Events"
+    url = "/events/"
+    weight = -8
+  [[menu.main]]
     identifier = "poems"
     name = "Poems"
     url = "/poems/"
-    weight = -8
+    weight = -7
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
-    weight = -7
+    weight = -6
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = -5

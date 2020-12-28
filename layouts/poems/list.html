@@ -1,11 +1,13 @@
 {{ define "main" }}
-	<h1>Poems</h1>
-	<!-- Ranges through content/poems/*.md -->
-	<ul>
-		{{ range .Pages.Reverse }}
-		  <li>
-		    <a href="{{.Permalink}}">{{.Title}}</a>
-		  </li>
-		{{ end }}
-	</ul>
+	<main id="main">
+		<h1>Poems</h1>
+		<!-- Ranges through content/poems/*.md -->
+		<ul>
+			{{ range .Pages.Reverse }}
+			  <li>
+			    <a href="{{.Permalink}}">{{.Title}}</a>
+			  </li>
+			{{ end }}
+		</ul>
+	</main>
 {{ end }}

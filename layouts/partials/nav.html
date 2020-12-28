@@ -2,7 +2,7 @@
 	<ul class="nav">
 		{{ $currentPage := . }}
 		{{ range .Site.Menus.main }}
-			<li aria-current="{{ if $currentPage.HasMenuCurrent "main" . }}true{{ end }}">
+			<li class="nav__item" aria-current="{{ if or ($currentPage.IsMenuCurrent "main" .) (eq $currentPage.Section .Identifier) }}true{{ end }}">
 				<a href="{{ .URL }}"><span>{{ .Name }}</span></a>
 			</li>
 		{{ end }}

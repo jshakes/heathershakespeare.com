@@ -1,11 +1,5 @@
 .main {
-	max-width: 30em;
+	max-width: 40em;
 	margin: 4em auto;
 	padding: 0 1.25em;
-}
-
-@media screen and ( min-width: 22em ) {
-	.main {
-		padding: 0 2.5em;
-	}
 }

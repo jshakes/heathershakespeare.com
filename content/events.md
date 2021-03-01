@@ -4,4 +4,6 @@ date: 2020-12-27T12:59:33-05:00
 draft: false
 ---
 
+The workshops I offer focus on the writing process and provide a space for people from all walks of life to discover the joy and therapeutic potential of creative writing. During current restrictions that space is inevitably online, but our Zoom sessions have increased accessibility and are proving very popular.
+
 - [Westcott Writing Workshops [PDF]](assets/pdf/writing-workshops-january-march-2021.pdf), winter series begins January 2021

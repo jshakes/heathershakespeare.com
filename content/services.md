@@ -4,18 +4,29 @@ date: 2020-12-27T13:09:34-05:00
 draft: false
 ---
 
-I offer a range of services including:
+These are the services I offer, with examples from my past and current work:
 
-- Weekly or monthly workshops for community groups
-	Currently running themed online workshops with writers in and around the Dorking area. New series begins in September.
-- One-off workshops for charities, schools and other organisations
-	Facilitated sessions for Epsom Mental Health Week and the Wimbledon Headway group (for people with acquired brain injuries). Contributed to Mindfest (a festival of ideas, talks and information around mental health and wellbeing at a local school).
-- Bespoke writing programmes for specific contexts and client groups
-	Designed, delivered and evaluated a 10-week journal writing programme in a women’s prison. Teamed up with a fellow practitioner to offer writing for wellbeing in the workplace. Visit our website WritingForLife.co.uk to find out more.
-- Online writing courses for individuals
-	Currently piloting a free online taster course, Wellbeing at Work, created in collaboration with Kate McBarron in response to the Covid-19 crisis (link?)
+## Regular writing for wellbeing workshops – open to all
 
-If you’d like to know more or discuss the options for your group or organisation, do get in touch.  
+Themed monthly online sessions with writers in and around Mole Valley – [current](/events/)
+
+## One-off workshops for charities, schools and other organisations
+
+- Epsom Mental Health Week
+- Wimbledon Headway Group – for people with acquired brain injuries
+- Mindfest – festival of ideas, talks and information on mental health at Ashcombe School
+- Holy Trinity Church Westcott – Arts Sunday
+
+## Bespoke writing programmes for specific contexts and client groups
+
+- Journal writing programme for women in the criminal justice system
+- Taster sessions and tailored workshops for workplace teams https://www.writingforlife.co.uk/for-organisations/ 
+
+## Online writing courses for individuals 
+
+W@W Wellbeing at Work, a free online toolkit with writing activities on themes relating to work of any kind https://www.writingforlife.co.uk/wellbeing-at-work-writing-toolkit/
+
+If you’d like to know more or discuss options for your group or organisation, do [get in touch](/contact/).
 
 ## What people say
 

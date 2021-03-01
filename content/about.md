@@ -15,11 +15,10 @@ The qualifications and experience I’ve gained along the way have all contribut
 - Foundation Certificate in Humanistic Counselling Skills and Studies (Metanoia Institute)
 - 17 years teaching and teacher training in a range of settings
 - Certificate in Education (South Bank University)
-BA in English Language and Literature (Oxford University)
+- BA in English Language and Literature (Oxford University)
 
 I’m also a member of:
 
-- [Lapidus](https://lapidus.org.uk/), the organisation of words for wellbeing practitioners
+- [Lapidus International](https://lapidus.org.uk/), the organisation of words for wellbeing practitioners
 - [NAWE](https://www.nawe.co.uk/), the National Association of Writers in Education
-- [Mole Valley Poets](https://www.molevalleypoets.co.uk/)
-
+- [Mole Valley Poets](https://www.molevalleypoets.co.uk/), a stanza of the Poetry Society

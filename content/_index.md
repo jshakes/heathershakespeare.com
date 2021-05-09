@@ -8,6 +8,6 @@ I’ve taught English and Creative Writing for many years but now, as a facilita
 
 Alongside this, I write poetry for the pleasure (and pain) of it, and because sometimes it resonates with those who care to read or listen.
 
-> “What’s writing really about? It’s about trying to take fuller possession of the reality of your life.”
+> What’s writing really about? It’s about trying to take fuller possession of the reality of your life.
 
 —Ted Hughes

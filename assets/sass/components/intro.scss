@@ -1,11 +1,11 @@
 .intro {
-	margin: 4em 0;
+	margin: 2em 0;
 }
 
 @media screen and ( min-width: 64em ) {
 	.intro {
 		display: flex;
-		align-items: center;
+		align-items: flex-start;
 	}
 }
 
@@ -30,9 +30,10 @@
 
 @media screen and ( min-width: 64em ) {
 	.intro__headshot {
-		margin-left: -8em;
+		margin-left: -10em;
 		float: none;
-		width: 6em;
+		width: 8em;
 		margin-right: 2em;
+		margin-top: 1em;
 	}
 }

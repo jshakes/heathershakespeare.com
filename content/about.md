@@ -4,7 +4,11 @@ date: 2020-12-27T12:59:33-05:00
 draft: false
 ---
 
-Words have always held a fascination for me, and I’m probably most comfortable when I have a book or a pen in my hand, even in this digital age. Much of my working life has involved writing in some form, or encouraging and enabling others to express themselves on the page.
+
+<div class="intro">
+	<img src="/img/heather-shakespeare-headshot.jpg" alt="Heather Shakespeare" class="intro__headshot">
+	<p class="intro__copy">Words have always held a fascination for me, and I’m probably most comfortable when I have a book or a pen in my hand, even in this digital age. Much of my working life has involved writing in some form, or encouraging and enabling others to express themselves on the page.</p>
+</div>
 
 Even though I’ve kept a journal since childhood, it wasn’t until a few years ago, while teaching creative writing in a prison, that I began to recognise the power of writing and its potential for personal growth and development.  At that point, a seed was sown which has since germinated and come to fruition in the work I do today.
 

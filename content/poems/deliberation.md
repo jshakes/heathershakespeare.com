@@ -1,7 +1,7 @@
 ---
 title: "Deliberation"
 date: 2020-12-27T14:56:54-05:00
-draft: true
+draft: false
 ---
 
 To hug or not to hug, no question.

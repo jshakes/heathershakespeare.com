@@ -8,6 +8,7 @@
 
 .nav__item {
 	margin-right: 1em;
+	padding: 0;
 
 	&[aria-current="true"] {
 		font-weight: bold;

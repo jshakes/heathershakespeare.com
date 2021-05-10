@@ -28,6 +28,8 @@ W@W Wellbeing at Work, a free online toolkit with writing activities on themes r
 
 If you’d like to know more or discuss options for your group or organisation, do [get in touch](/contact/).
 
+![Blank paper with pen and coffee cup on wood table](/img/pexels-kaboompics-com-6357.jpeg)
+
 ## What people say
 
 > “Heather is skilled at creating a space for connection, creativity, insight and fun.”   

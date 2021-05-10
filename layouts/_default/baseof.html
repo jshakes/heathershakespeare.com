@@ -37,7 +37,10 @@
 	</main>
 	{{ block "footer" . }}
 		<!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
-		<footer class="footer">© <a href="/">Heather Shakespeare</a> {{ dateFormat "2006" now }}</footer>
+		<footer class="footer">
+			<p>© <a href="/">Heather Shakespeare</a> {{ dateFormat "2006" now }}</p>
+			<p><small>All illustrations <a href="https://eleanorshakespeare.com/">Eleanor Shakespeare</a></small></p>
+		</footer>
 	{{ end }}
 </body>
 

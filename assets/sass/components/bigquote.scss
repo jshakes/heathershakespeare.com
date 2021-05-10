@@ -1,0 +1,42 @@
+
+.bigquote {
+	margin: 2em 0;
+	padding-left: 1em;
+	font-style: normal;
+}
+
+@media screen and ( min-width: 64em ) {
+	.bigquote {
+		padding-left: 0;
+	}
+}
+
+.bigquote {
+	font-family: 'Bariol Serif', Georgia, serif;
+	margin: 0;
+	font-size: 1.5em;
+	color: #777571;
+	position: relative;
+}
+
+@media screen and ( min-width: 64em ) {
+	.bigquote {
+		font-size: 2em;
+	}
+}
+
+.bigquote > *:first-child::before {
+	content: '“';
+	color: #24827f;
+	position: absolute;
+	right: 100%;
+	top: 0;
+	font-size: 3em;
+	line-height: 0.8;
+  margin-right: 0.1em;
+}
+
+.bigquote p {
+	line-height: 1.2;
+	margin: 0 0 0.5em;
+}

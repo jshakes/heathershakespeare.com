@@ -1,5 +1,6 @@
 {{ define "main" }}
 	<h1>Poems</h1>
+	<img style="margin: auto; display: block; margin-bottom: 2em;" src="/img/pen-nib-with-leaves.jpg">
 	<!-- Ranges through content/poems/*.md -->
 	<ul>
 		{{ range .Pages.Reverse }}
@@ -8,5 +9,4 @@
 			</li>
 		{{ end }}
 	</ul>
-	<img style="margin: auto; display: block; margin-bottom: 2em;" src="/img/pen-nib-with-leaves.jpg">
 {{ end }}

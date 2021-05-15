@@ -10,7 +10,7 @@ draft: false
 	<p class="intro__copy">Words have always held a fascination for me, and I’m probably most comfortable when I have a book or a pen in my hand, even in this digital age. Much of my working life has involved writing in some form, or encouraging and enabling others to express themselves on the page.</p>
 </div>
 
-Even though I’ve kept a journal since childhood, it wasn’t until a few years ago, while teaching creative writing in a prison, that I began to recognise the power of writing and its potential for personal growth and development.  At that point, a seed was sown which has since germinated and come to fruition in the work I do today.
+Even though I’ve kept a journal since childhood, it wasn’t until a few years ago, while teaching creative writing in a prison, that I began to recognise the power of the writing process and its potential. At that point, a seed was sown which has since germinated and come to fruition in the work I do today.
 
 The qualifications and experience I’ve gained along the way have all contributed to this process:
 
@@ -26,3 +26,5 @@ I’m also a member of:
 - [Lapidus International](https://lapidus.org.uk/), the organisation of words for wellbeing practitioners
 - [NAWE](https://www.nawe.co.uk/), the National Association of Writers in Education
 - [Mole Valley Poets](https://www.molevalleypoets.co.uk/), a stanza of the Poetry Society
+
+and co-founder of [WritingforLife](https://www.writingforlife.co.uk/)

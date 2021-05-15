@@ -4,7 +4,8 @@ date: 2020-12-27T14:57:16-05:00
 draft: false
 ---
 
-> “...the mountains and hills will burst into song before you, and all the trees of the field will clap their hands.”
+> “...the mountains and hills will burst into song before you,
+and all the trees of the field will clap their hands.”
 —Isaiah 55: 12 – The Bible
 
 With the dawn light they came,\\

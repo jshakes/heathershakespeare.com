@@ -9,34 +9,34 @@ The workshops I offer focus on the writing process and provide a space for peopl
 
 ## Writing for Wellbeing in Westcott
 
-### Winter 2022 Theme: _Maps_
+### Spring/summer 2022 Theme: Colour
 
-[Download the flyer [PDF]](/pdf/writing-workshops-jan-mar-2022.pdf)
+[Download the flyer [PDF]](/pdf/writing-workshops-may-jul-2022.pdf)
 
-As we begin to navigate another year with all its possibilities, we’ll be taking maps as our writing focus in this next series of workshops. Whether digital or in concrete form, maps can help us to orientate ourselves, connect with our surroundings, locate a destination and find our direction. Hopefully they will also offer us many and varied writing prompts! As always, there’ll be time and space to write, reflect and share.
+As spring brings fresh life and colour to the natural world, our theme for this series of workshops will be colour. We’ll be focusing on the three colours of our national flag (with a nod to the upcoming jubilee celebrations). In our writing, we will consider where these colours are found and how they are used, as well as exploring the associations they hold and the emotions they evoke. As always, there’ll be time and space to write, reflect and share.
 
 - Wednesdays at [St John’s](https://goo.gl/maps/Z2FqiNCuSs11qcxK7) - £12 (£30 for all 3)
 - Saturdays on Zoom - £8
 
 ### Workshops 
 
-#### January - _Boundaries & Borders_
+#### May - _Red_
 
-- In-person (St John's) - Wednesday 19 January, 11.15am – 1.15pm
-- Zoom - Saturday 29 January, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 18 May, 11.15am – 1.15pm
+- Zoom - Saturday 21 May, 11.00am – 12.45pm*
 
-#### February - _Landmarks_
+#### June - _White_
 
-- In-person (St John's) - Wednesday 16 February, 11.15am – 1.15pm
-- Zoom - Saturday 26 February, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 15 June, 11.15am – 1.15pm
+- Zoom - Saturday 25 June, 11.00am – 12.45pm*
 
-#### March - _Viewpoints_
+#### July - _Blue_
 
-- In-person (St John's) - Wednesday 16 March, 11.15am – 1.15pm
-- Zoom - Saturday 26 March, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 13 July, 11.15am – 1.15pm
+- Zoom - Saturday 23 July, 11.00am – 12.45pm*
 
-\*The waiting room for Zoom workshops will open 10 minutes before each session for arrival and settling in.
+\*The waiting room for Zoom workshops will open 10 minutes before each session for arrival and settling in. All times in BST.
 
 ### Booking
 
-To book, just email me at [heathershakes60@gmail.com](mailto:heathershakes60@gmail.com)
+To book, just email me at [heathershakes60@gmail.com](mailto:heathershakes60@gmail.com).

@@ -30,10 +30,10 @@ As one season segues into another and we slowly adjust to muted skies and shorte
 - In-person (St John's) - Wednesday 19 October, 11.15am – 1.15pm
 - Zoom - Saturday 29 October, 11.00am – 12.45pm*
 
-#### July - _Keeping_
+#### November - _Keeping_
 
-- In-person (St John's) - Wednesday 16 Keeping, 11.15am – 1.15pm
-- Zoom - Saturday 26 Keeping, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 16 November, 11.15am – 1.15pm
+- Zoom - Saturday 26 November, 11.00am – 12.45pm*
 
 \*The waiting room for Zoom workshops will open 10 minutes before each session for arrival and settling in. All times in BST.
 

@@ -9,31 +9,31 @@ The workshops I offer focus on the writing process and provide a space for peopl
 
 ## Writing for Wellbeing in Westcott
 
-### Autumn 2022 Theme: The Quest
+### Winter/Spring 2023 theme: Sweet Treats
 
-[Download the flyer [PDF]](/pdf/writing-workshops-sep-nov-2022.pdf)
+[Download the flyer [PDF]](/pdf/writing-workshops-jan-mar-2023.pdf)
 
-As one season segues into another and we slowly adjust to muted skies and shorter days, we hear again the invitation to pause, reflect and write. Our workshops this autumn take up the theme of ‘The Quest’, offering an opportunity to consider the things we search for, what we find and how we choose what to keep.There’ll be time and space to write without pressure or expectations, as we allow our words to flow and lead us wherever they will.
+Just before we leave behind those festive treats and little indulgences, we pause to reflect on the names of some of the nation’s favourite confectionery – past and present. Our first series of workshops in 2023 will focus on ‘Sweet Treats’, but this time the calorie-free variety! There’ll be an opportunity to explore the associations these names hold and, as always, the space and time to write without pressure or expectations. All are very welcome to join us.
 
 - Wednesdays at [St John’s](https://goo.gl/maps/Z2FqiNCuSs11qcxK7) - £12 (£30 for all 3)
 - Saturdays on Zoom - £8
 
 ### Workshops 
 
-#### September - _Searching_
+#### January - _Celebrations_
 
-- In-person (St John's) - Wednesday 14 September, 11.15am – 1.15pm
-- Zoom - Saturday 24 September, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 18 January, 11.15am – 1.15pm
+- Zoom - Saturday 28 January, 11.00am – 12.45pm*
 
-#### October - _Finding_
+#### February - _All Gold_
 
-- In-person (St John's) - Wednesday 19 October, 11.15am – 1.15pm
-- Zoom - Saturday 29 October, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 15 February, 11.15am – 1.15pm
+- Zoom - Saturday 25 February, 11.00am – 12.45pm*
 
-#### November - _Keeping_
+#### March - _Heroes_
 
-- In-person (St John's) - Wednesday 16 November, 11.15am – 1.15pm
-- Zoom - Saturday 26 November, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 15 March, 11.15am – 1.15pm
+- Zoom - Saturday 25 March, 11.00am – 12.45pm*
 
 \*The waiting room for Zoom workshops will open 10 minutes before each session for arrival and settling in. All times in BST.
 

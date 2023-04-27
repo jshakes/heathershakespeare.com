@@ -5,7 +5,7 @@ draft: false
 ---
 ![Pencil and diary on desk](/img/diary-2116244_1920.jpeg)
 
-The workshops I offer focus on the writing process and provide a space for people from all walks of life to discover the joy and therapeutic potential of creative writing. During current restrictions that space is inevitably online, but our Zoom sessions have increased accessibility and are proving very popular.
+The workshops I offer focus on the writing process and provide a space for people from all walks of life to discover the joy and therapeutic potential of creative writing.
 
 ## Writing for Wellbeing in Westcott (and beyond)
 

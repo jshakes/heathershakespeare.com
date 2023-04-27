@@ -7,33 +7,35 @@ draft: false
 
 The workshops I offer focus on the writing process and provide a space for people from all walks of life to discover the joy and therapeutic potential of creative writing. During current restrictions that space is inevitably online, but our Zoom sessions have increased accessibility and are proving very popular.
 
-## Writing for Wellbeing in Westcott
+## Writing for Wellbeing in Westcott (and beyond)
 
-### Winter/Spring 2023 theme: Sweet Treats
+![A bunch of tomatoes ripening on the vine](/img/growing-season.jpg)
 
-[Download the flyer [PDF]](/pdf/writing-workshops-jan-mar-2023.pdf)
+### Summer 2023 theme: The Growing Season
 
-Just before we leave behind those festive treats and little indulgences, we pause to reflect on the names of some of the nation’s favourite confectionery – past and present. Our first series of workshops in 2023 will focus on ‘Sweet Treats’, but this time the calorie-free variety! There’ll be an opportunity to explore the associations these names hold and, as always, the space and time to write without pressure or expectations. All are very welcome to join us.
+[Download the flyer [PDF]](/pdf/writing-workshops-may-jul-2023.pdf)
 
-- Wednesdays at [St John’s](https://goo.gl/maps/Z2FqiNCuSs11qcxK7) - £12 (£30 for all 3)
+As we emerge from the dormancy of winter into the warmer and brighter months, our next series of workshops, The Growing Season, takes on a horticultural and agricultural theme. We’ll be exploring ideas around growth, from sowing and planting through to harvesting, and everything in between. As ever, there’ll be space and time to write without any expectations, to reflect on your words, wherever they take you, and to share with others if you wish. No talent required and all are most welcome to join us.
+
+- Wednesdays at [St John’s](https://goo.gl/maps/Z2FqiNCuSs11qcxK7) - £13 (£35 for all 3)
 - Saturdays on Zoom - £8
 
 ### Workshops 
 
-#### January - _Celebrations_
+#### May - _Sowing_
 
-- In-person (St John's) - Wednesday 18 January, 11.15am – 1.15pm
-- Zoom - Saturday 28 January, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 17 May, 11.15am – 1.15pm
+- Zoom - Saturday 27 May, 11.00am – 12.45pm*
 
-#### February - _All Gold_
+#### June - _Tending_
 
-- In-person (St John's) - Wednesday 15 February, 11.15am – 1.15pm
-- Zoom - Saturday 25 February, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 14 June, 11.15am – 1.15pm
+- Zoom - Saturday 24 February, 11.00am – 12.45pm*
 
-#### March - _Heroes_
+#### July - _Reaping_
 
-- In-person (St John's) - Wednesday 15 March, 11.15am – 1.15pm
-- Zoom - Saturday 25 March, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 19 July, 11.15am – 1.15pm
+- Zoom - Saturday 29 July, 11.00am – 12.45pm*
 
 \*The waiting room for Zoom workshops will open 10 minutes before each session for arrival and settling in. All times in BST.
 

@@ -9,7 +9,7 @@ The workshops I offer focus on the writing process and provide a space for peopl
 
 ## Writing for Wellbeing in Westcott (and beyond)
 
-![A hiker walking through woods under a canopy of trees](/img/pilgramage.jpg)
+![A hiker walking through woods under a canopy of trees](/img/pilgrimage.jpg)
 
 ### Autumn 2023 theme: Pilgrimage
 

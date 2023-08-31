@@ -9,33 +9,33 @@ The workshops I offer focus on the writing process and provide a space for peopl
 
 ## Writing for Wellbeing in Westcott (and beyond)
 
-![A bunch of tomatoes ripening on the vine](/img/growing-season.jpg)
+![A hiker walking through woods under a canopy of trees](/img/pilgramage.jpg)
 
-### Summer 2023 theme: The Growing Season
+### Autumn 2023 theme: Pilgrimage
 
-[Download the flyer [PDF]](/pdf/writing-workshops-may-jul-2023.pdf)
+[Download the flyer [PDF]](/pdf/writing-workshops-sep-nov-2023.pdf)
 
-As we emerge from the dormancy of winter into the warmer and brighter months, our next series of workshops, The Growing Season, takes on a horticultural and agricultural theme. We’ll be exploring ideas around growth, from sowing and planting through to harvesting, and everything in between. As ever, there’ll be space and time to write without any expectations, to reflect on your words, wherever they take you, and to share with others if you wish. No talent required and all are most welcome to join us.
+Join us for any or all of our workshops this autumn as we explore this ancient theme of pilgrimage and see where it leads. There’ll be a range of prompts, with plenty of space and time to write, as well as the opportunity to share your words or reflections if you wish to. No writing talent or experience is needed and you can be sure of a warm welcome in this relaxed and supportive group.
 
 - Wednesdays at [St John’s](https://goo.gl/maps/Z2FqiNCuSs11qcxK7) - £13 (£35 for all 3)
 - Saturdays on Zoom - £8
 
 ### Workshops 
 
-#### May - _Sowing_
+#### September - _Setting Out_
 
-- In-person (St John's) - Wednesday 17 May, 11.15am – 1.15pm
-- Zoom - Saturday 27 May, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 20 September, 11.15am – 1.15pm
+- Zoom - Saturday 30 September, 11.00am – 12.45pm*
 
-#### June - _Tending_
+#### October - _Pressing On_
 
-- In-person (St John's) - Wednesday 14 June, 11.15am – 1.15pm
-- Zoom - Saturday 24 February, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 18 October, 11.15am – 1.15pm
+- Zoom - Saturday 28 October, 11.00am – 12.45pm*
 
-#### July - _Reaping_
+#### November - _Arriving_
 
-- In-person (St John's) - Wednesday 19 July, 11.15am – 1.15pm
-- Zoom - Saturday 29 July, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 22 November, 11.15am – 1.15pm
+- Zoom - Saturday 25 November, 11.00am – 12.45pm*
 
 \*The waiting room for Zoom workshops will open 10 minutes before each session for arrival and settling in. All times in BST.
 

@@ -10,7 +10,7 @@ These are the services I offer, with examples from my past and current work:
 
 ## Regular writing for wellbeing workshops – open to all
 
-Themed monthly online sessions with writers in and around Mole Valley – [current](/events/)
+Themed monthly sessions in person or online. See [Events](/events/) for further information.
 
 ## One-off workshops for charities, schools and other organisations
 

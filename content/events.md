@@ -9,33 +9,33 @@ The workshops I offer focus on the writing process and provide a space for peopl
 
 ## Writing for Wellbeing in Westcott (and beyond)
 
-![A hiker walking through woods under a canopy of trees](/img/pilgrimage.jpg)
+![A sheet of blue silk](/img/silk.jpg)
 
-### Autumn 2023 theme: Pilgrimage
+### Winter/Spring 2024 theme: Words That Smooth The Way
 
-[Download the flyer [PDF]](/pdf/writing-workshops-sep-nov-2023.pdf)
+[Download the flyer [PDF]](/pdf/writing-workshops-jan-mar-2024.pdf)
 
-Join us for any or all of our workshops this autumn as we explore this ancient theme of pilgrimage and see where it leads. There’ll be a range of prompts, with plenty of space and time to write, as well as the opportunity to share your words or reflections if you wish to. No writing talent or experience is needed and you can be sure of a warm welcome in this relaxed and supportive group.
+What better way to begin a new year than by celebrating those small yet vital words that smooth the way in our everyday interactions and relationships? This new series of workshops offers an opportunity to explore through writing just how we use these words, their place and purpose in our language and our lives. There’ll be a range of prompts, with plenty of space and time to write, and the chance to share if you wish to. No writing talent or experience is needed and you can be sure of a warm welcome in this relaxed and supportive group.
 
 - Wednesdays at [St John’s](https://goo.gl/maps/Z2FqiNCuSs11qcxK7) - £13 (£35 for all 3)
 - Saturdays on Zoom - £8
 
 ### Workshops 
 
-#### September - _Setting Out_
+#### January - _Thank you_
 
-- In-person (St John's) - Wednesday 20 September, 11.15am – 1.15pm
-- Zoom - Saturday 30 September, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 17 January, 11.15am – 1.15pm
+- Zoom - Saturday 27 January, 11.00am – 12.45pm*
 
-#### October - _Pressing On_
+#### February - _Sorry_
 
-- In-person (St John's) - Wednesday 18 October, 11.15am – 1.15pm
-- Zoom - Saturday 28 October, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 21 February, 11.15am – 1.15pm
+- Zoom - Saturday 24 February, 11.00am – 12.45pm*
 
-#### November - _Arriving_
+#### March - _Please_
 
-- In-person (St John's) - Wednesday 22 November, 11.15am – 1.15pm
-- Zoom - Saturday 25 November, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 20 March, 11.15am – 1.15pm
+- Zoom - Saturday 23 March, 11.00am – 12.45pm*
 
 \*The waiting room for Zoom workshops will open 10 minutes before each session for arrival and settling in. All times in BST.
 

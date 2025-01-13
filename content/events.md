@@ -9,35 +9,35 @@ The workshops I offer focus on the writing process and provide a space for peopl
 
 ## Writing for Wellbeing in Westcott (and beyond)
 
-![Two signposts pointing in opposite directions. One reads 'This way', the other reads 'That way'](/img/signposts.jpg)
+![Photograph of a red apple on a green background](/img/apple.jpg)
 
-### Summer 2024 theme: The Serenity Prayer
+### Winter theme: Whole
 
-[Download the flyer [PDF]](/pdf/writing-workshops-may-jul-2024.pdf)
+[Download the flyer [PDF]](/pdf/writing-workshops-jan-mar-2025.pdf)
 
-This summer, our writing workshops will focus on a challenge we all face every day: how to react to life’s problems, irritations and perceived imperfections. We’ll take the opening lines of Reinhold Niebuhr’s famous Serenity Prayer as our starting point and, as always, there’ll be plenty of space and time to write, and to share your words if you wish to. No writing talent or experience is needed and you can be sure of a warm welcome in this relaxed and supportive group.
+As another year opens, we step aside and pause to explore, through writing, what makes us human, what makes us whole. Acknowledging that there’s always more than meets the eye, we’ll consider not only our physical being, but also the intangible aspects of who we are. There’ll be a variety of writing prompts and the opportunity to share your words, but only if you wish to. No writing talent or experience is needed and you can be sure of a warm welcome in this relaxed and supportive group.
 
 - Wednesdays at [St John’s](https://goo.gl/maps/Z2FqiNCuSs11qcxK7) - £13 (£35 for all 3)
 - Saturdays on Zoom - £8
 
 ### Workshops 
 
-#### May - _Serenity to Accept_
+#### January - _Mind_
 
-- In-person (St John's) - Wednesday 15 May, 11.15am – 1.15pm
-- Zoom - Saturday 25 May, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 15 January, 11.15am – 1.15pm
+- Zoom - Saturday 18 January, 11.00am – 12.45pm*
 
-#### June - _Courage to Change_
+#### February - _Body_
 
-- In-person (St John's) - Wednesday 19 June, 11.15am – 1.15pm
-- Zoom - Saturday 29 June, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 19 February, 11.15am – 1.15pm
+- Zoom - Saturday 22 February, 11.00am – 12.45pm*
 
-#### July - _Wisdom to Know_
+#### March - _Spirit_
 
-- In-person (St John's) - Wednesday 17 July, 11.15am – 1.15pm
-- Zoom - Saturday 27 July, 11.00am – 12.45pm*
+- In-person (St John's) - Wednesday 12 March, 11.15am – 1.15pm
+- Zoom - Saturday 22 March, 11.00am – 12.45pm*
 
-\*The waiting room for Zoom workshops will open 10 minutes before each session for arrival and settling in. All times in BST.
+\*The waiting room for Zoom workshops will open 10 minutes before each session for arrival and settling in. All times in GMT.
 
 ### Booking
 

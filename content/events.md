@@ -13,7 +13,7 @@ The workshops I offer focus on the writing process and provide a space for peopl
 
 ### Summer theme: Elemental
 
-[Download the flyer [PDF]](/pdf/writing-workshops-may-jul-2026.pdf)
+[Download the flyer [PDF]](/pdf/writing-workshops-may-july-2026.pdf)
 
 As we find ourselves on the cusp of long days and holidays, what better time to celebrate those elements which together form the quintessential summer scene? In this series, we’ll be taking sun, sea and sky as our starting point for writing, exploring the ideas and associations which they stir within us. We write without judgment or expectations and there is never any pressure to share, so why not allow yourself some time to relax and reflect in this stimulating and supportive environment? No experience needed and all are welcome.
 

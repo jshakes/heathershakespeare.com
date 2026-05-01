@@ -9,35 +9,23 @@ The workshops I offer focus on the writing process and provide a space for peopl
 
 ## Writing for Wellbeing in Westcott (and beyond)
 
-![Photograph of a red apple on a green background](/img/apple.jpg)
+![Photograph of cliffs overlooking the sea on a summer day](/img/writing-workshop-summer-2026-elemental.jpg)
 
-### Winter theme: Whole
+### Summer theme: Elemental
 
-[Download the flyer [PDF]](/pdf/writing-workshops-jan-mar-2025.pdf)
+[Download the flyer [PDF]](/pdf/writing-workshops-may-jul-2026.pdf)
 
-As another year opens, we step aside and pause to explore, through writing, what makes us human, what makes us whole. Acknowledging that there’s always more than meets the eye, we’ll consider not only our physical being, but also the intangible aspects of who we are. There’ll be a variety of writing prompts and the opportunity to share your words, but only if you wish to. No writing talent or experience is needed and you can be sure of a warm welcome in this relaxed and supportive group.
+As we find ourselves on the cusp of long days and holidays, what better time to celebrate those elements which together form the quintessential summer scene? In this series, we’ll be taking sun, sea and sky as our starting point for writing, exploring the ideas and associations which they stir within us. We write without judgment or expectations and there is never any pressure to share, so why not allow yourself some time to relax and reflect in this stimulating and supportive environment? No experience needed and all are welcome.
 
-- Wednesdays at [St John’s](https://goo.gl/maps/Z2FqiNCuSs11qcxK7) - £13 (£35 for all 3)
-- Saturdays on Zoom - £8
+### Workshops
 
-### Workshops 
+All workshops take place from 11.15 to 1.15 at St John’s Community Centre, Furlong Road, Westcott.
 
-#### January - _Mind_
+Drop-in rate £13; whole series rate (all three sessions) £35
 
-- In-person (St John's) - Wednesday 15 January, 11.15am – 1.15pm
-- Zoom - Saturday 18 January, 11.00am – 12.45pm*
-
-#### February - _Body_
-
-- In-person (St John's) - Wednesday 19 February, 11.15am – 1.15pm
-- Zoom - Saturday 22 February, 11.00am – 12.45pm*
-
-#### March - _Spirit_
-
-- In-person (St John's) - Wednesday 12 March, 11.15am – 1.15pm
-- Zoom - Saturday 22 March, 11.00am – 12.45pm*
-
-\*The waiting room for Zoom workshops will open 10 minutes before each session for arrival and settling in. All times in GMT.
+- Wed 20 May — Sun
+- Wed 17 June — Sea
+- Wed 15 July — Sky
 
 ### Booking
 

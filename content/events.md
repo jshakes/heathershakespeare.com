@@ -7,7 +7,7 @@ draft: false
 
 The workshops I offer focus on the writing process and provide a space for people from all walks of life to discover the joy and therapeutic potential of creative writing.
 
-## Writing for Wellbeing in Westcott (and beyond)
+## Writing for Wellbeing in Westcott
 
 ![Photograph of cliffs overlooking the sea on a summer day](/img/writing-workshop-summer-2026-elemental.jpg)
 
@@ -31,4 +31,4 @@ Drop-in rate £13; whole series rate (all three sessions) £35
 
 To book, just email me at [heathershakes60@gmail.com](mailto:heathershakes60@gmail.com). Payment in advance secures your place.
 
-St John’s bookings are non-refundable.
+Bookings are non-refundable.
